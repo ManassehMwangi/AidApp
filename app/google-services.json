@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876513045754",
+    "firebase_url": "https://aidapp-4f51d.firebaseio.com",
+    "project_id": "aidapp-4f51d",
+    "storage_bucket": "aidapp-4f51d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876513045754:android:cb375c6818a8d07e09ad43",
+        "android_client_info": {
+          "package_name": "com.StJoseph.aidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876513045754-djhmcod5us6r5esu4vh5ldsrsde40qkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLRo3UilP5ey6b-ol_F7Wx2BL19ZhbUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876513045754-djhmcod5us6r5esu4vh5ldsrsde40qkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
